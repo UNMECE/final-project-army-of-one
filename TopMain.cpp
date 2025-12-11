@@ -76,7 +76,7 @@ MyFile.close();
  	std::cout<<"Press Y to test your solveProblems function." <<std::endl;
  	std::cin >> answer;
 //when the student has completed their StudentSolution code, then they can press y to move to simulation
- 	if(answer=='Y' || 'y')
+ 	if(answer=='Y' || answer=='y')
  	{
 
 //this would call the compiler to compile the StudentSolution 
